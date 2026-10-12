@@ -29,3 +29,16 @@
 ```bash
 conda create -n cv_env python=3.10 -y
 conda activate cv_env
+```
+
+### 2. 安裝相依套件
+請確認目前路徑在專案根目錄下，執行以下指令安裝相依套件：
+```bash
+pip install -r requirements.txt
+```
+
+### 3. 執行程式
+安裝完成後，執行以下指令啟動程式：
+```bash
+python main.py
+```
