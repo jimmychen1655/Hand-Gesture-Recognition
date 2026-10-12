@@ -29,8 +29,3 @@
 ```bash
 conda create -n cv_env python=3.10 -y
 conda activate cv_env
-
-###  2. 安裝必要套件
-pip install -r requirements.txt
-### 執行手勢辨識
-python hand_gesture_recognition.py
