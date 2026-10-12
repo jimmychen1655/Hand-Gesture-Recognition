@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+cv_env/
+.vscode/
+*.mp4
+*.jpg
