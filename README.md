@@ -40,5 +40,5 @@ pip install -r requirements.txt
 ### 3. 執行程式
 安裝完成後，執行以下指令啟動程式：
 ```bash
-python main.py
+python hand_gesture_recognition.py
 ```
